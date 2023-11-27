@@ -1,0 +1,14 @@
+C:\Users\wbalconi\git\learn-dotnet-strings\bin\Debug\net8.0\learn-dotnet-strings.exe
+C:\Users\wbalconi\git\learn-dotnet-strings\bin\Debug\net8.0\learn-dotnet-strings.deps.json
+C:\Users\wbalconi\git\learn-dotnet-strings\bin\Debug\net8.0\learn-dotnet-strings.runtimeconfig.json
+C:\Users\wbalconi\git\learn-dotnet-strings\bin\Debug\net8.0\learn-dotnet-strings.dll
+C:\Users\wbalconi\git\learn-dotnet-strings\bin\Debug\net8.0\learn-dotnet-strings.pdb
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\learn-dotnet-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\learn-dotnet-strings.AssemblyInfoInputs.cache
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\learn-dotnet-strings.AssemblyInfo.cs
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\learn-dotnet-strings.csproj.CoreCompileInputs.cache
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\learn-dotnet-strings.dll
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\refint\learn-dotnet-strings.dll
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\learn-dotnet-strings.pdb
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\learn-dotnet-strings.genruntimeconfig.cache
+C:\Users\wbalconi\git\learn-dotnet-strings\obj\Debug\net8.0\ref\learn-dotnet-strings.dll
